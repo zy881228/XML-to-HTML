@@ -18,6 +18,8 @@ private:
     std::map<std::string, std::vector<std::string>> table;
     std::vector<std::string> col_name;
     int size;
+    
+    //Since for every instance we need the same head and bodyend
     static std::string head;
     static std::string bodyEnd;
     
