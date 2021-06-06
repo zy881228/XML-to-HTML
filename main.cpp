@@ -2,6 +2,7 @@
 Copyright by Yang Zhou
 Date: 2021/06/06
 Usage: Convert XML file to HTML file as HTML table format.
+3rd library: Tinyxml2   https://github.com/leethomason/tinyxml2
 Version: Test
 */
 
